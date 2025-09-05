@@ -1,0 +1,7 @@
+transformers
+torch
+nltk
+gTTS
+pydub
+flask
+textblob
